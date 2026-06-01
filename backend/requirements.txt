@@ -1,7 +1,0 @@
-gunicorn
-whitenoise
-Django
-djangorestframework
-django-cors-headers
-djangorestframework-simplejwt
-Pillow
